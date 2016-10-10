@@ -1,0 +1,5 @@
+server: 'prod'
+base_url:
+  prod: 'http://www.google.com'
+  stage: 'http://stage.google.com'
+browser: 'firefox'
